@@ -1,8 +1,6 @@
 ## hello
-*my nickname is **liz**, i'm 16y old*
-
-> *you can't contact me, i'm sorry*
+*my nickname is **dwn**, i'm 16y old*
 
 * *i like hacking*
-* *i like bsd*
-* *i hate many things*
+* *btw i use gentoo*
+* *im studying malware and low level things*
